@@ -1,0 +1,44 @@
+   
+.head{
+    color:red
+}
+#id{
+    color:green
+}
+li{
+    display:inline; 
+
+}
+
+a{
+    font:roboto;
+    font-family:georgia;
+    font-size:1,5em;
+    font-weight:lighter;
+    font-style:italic;
+    text-align:center;
+    text-decoration:underline;
+    text-transform:uppercase;
+    letter-spacing:  3px;
+   color:red 
+
+
+}
+#titr{ 
+    font-size: large;
+    color: tomato;
+
+}
+h5{
+    color:purple;
+    border:5px black solid;
+}
+p{
+    text-align: center;
+    text-transform: medium;
+    font-style:italic;
+}
+h1{
+    color:green;
+    
+}
